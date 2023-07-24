@@ -23,16 +23,17 @@
 
 ### Website used: 
 
-Title: Python - Creating dictionary from Excel data
-Website: Stack Overflow
-URL: https://stackoverflow.com/questions/14196013/python-creating-dictionary-from-excel-data
-Title: Convert a Pandas DataFrame to a dictionary
-Website: Stack Overflow
-URL: https://stackoverflow.com/questions/26716616/convert-a-pandas-dataframe-to-a-dictionary 
+#####  Title: Python - Creating dictionary from Excel data
+##### Website: Stack Overflow
+##### URL: https://stackoverflow.com/questions/14196013/python-creating-dictionary-from-excel-data
 
-Title: What is the difference between UTF-8 and ISO-8859-1?
-Website: Stack Overflow
-URL: https://stackoverflow.com/questions/7048745/what-is-the-difference-between-utf-8-and-iso-8859-1
+##### Title: Convert a Pandas DataFrame to a dictionary
+##### Website: Stack Overflow
+##### URL: https://stackoverflow.com/questions/26716616/convert-a-pandas-dataframe-to-a-dictionary 
+
+##### Title: What is the difference between UTF-8 and ISO-8859-1?
+##### Website: Stack Overflow
+##### URL: https://stackoverflow.com/questions/7048745/what-is-the-difference-between-utf-8-and-iso-8859-1
 
 ## Vizualizations: 
 ## Further conclusion (what we can do to improve the project) 
