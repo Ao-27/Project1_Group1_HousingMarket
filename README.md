@@ -2,9 +2,9 @@
 
 ## Overview of this project 
 ### Main objective
-#### The primary objective of this project is to furnish a profound and all-encompassing data analysis, accompanied by profound insights, to aid an investment realtor in pinpointing the optimal city among Montreal, Toronto, and Vancouver for constructing new residential properties. 
+##### The primary objective of this project is to furnish a profound and all-encompassing data analysis, accompanied by profound insights, to aid an investment realtor in pinpointing the optimal city among Montreal, Toronto, and Vancouver for constructing new residential properties. 
 
-#### The analysis will be centered around examination of historical housing market trends. A group of 4 data analysts will harness pertinent datasets and use  statistical techniques to deliver actionable recommendations that empower the investment realtor in making well-informed decisions.
+##### The analysis will be centered around examination of historical housing market trends. A group of 4 data analysts will harness pertinent datasets and use  statistical techniques to deliver actionable recommendations that empower the investment realtor in making well-informed decisions.
 
 
 ## References 
