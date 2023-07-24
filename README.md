@@ -1,8 +1,8 @@
 # Project1_Group1_HousingMarket 
-Alex 
-Ajani
-Navreet
-Maria
+## Alex 
+## Ajani
+## Navreet
+## Maria
 
 ## Overview of this project 
 ### Main objective
