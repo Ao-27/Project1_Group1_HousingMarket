@@ -1,4 +1,8 @@
-# Project1_Group1_HousingMarket
+# Project1_Group1_HousingMarket 
+Alex 
+Ajani
+Navreet
+Maria
 
 ## Overview of this project 
 ### Main objective
@@ -8,11 +12,11 @@
 
 
 ## References 
-### **Statistic Canada**
+### Statistic Canada:
 ##### 
 
 
-### **Housing market per year trend:**
+### Housing market per year trend:
 ##### WowA. (2023, July 15). Montreal Housing Market: Trends and Analysis. WowA Canada. Retrieved from https://wowa.ca/montreal-housing-market
 ##### WowA. (2023, July 23). Vancouver Housing Market: Trends and Analysis. WowA Canada. Retrieved from https://wowa.ca/vancouver-housing-market
 ##### WowA. (2023, July 23). Toronto Housing Market: Trends and Analysis. WowA Canada. Retrieved from https://wowa.ca/toronto-housing-market
