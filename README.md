@@ -30,7 +30,29 @@
     3 Are there any outliers or anomalies in the data that may require further investigation or consideration in the decision-making process?
     
     4 Are there any significant trends or patterns in the historical housing market data of Montreal, Toronto, and Vancouver that could impact the             investment decision
+
+
+## Vizualizations: 
+    Chart #1 - 
+
+    Chart #2 -  
+
+    Chart #3 - 
+
+    Chart #4 -  
+
+    Chart #5 - 
+
+    Chart #6 - 
     
+    Chart #7 - 
+
+    Chart #8 - 
+
+## Limitations 
+    Use average 
+
+    Not every house is in sale every month 
 ### References: 
 ### Statistic Canada
     ##### 
@@ -66,15 +88,5 @@
     Website: Stack Overflow
     URL: https://stackoverflow.com/questions/7048745/what-is-the-difference-between-utf-8-and-iso-8859-1
 
-
-## Vizualizations: 
-    Chart #1 - 
-
-    Chart #2 -  
-
-    ## Limitations 
-    Use average 
-
-    Not every house is in sale every month 
 
 ## Further conclusion (what we can do to improve the project) 
