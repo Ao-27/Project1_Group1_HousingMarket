@@ -43,7 +43,7 @@
 ### Vizualization and findings 
     Question #1: What is the price growth over time by city according to the price index of Statistics Canada? 
     Chart #1 - 
-![Average Sales Price Distribution Over the Last 10 Years.png](Project1_Group1_HousingMarket/Output/Plots/Average Sales Price Distribution Over the Last 10 Years.png)
+    ![Average Sales Price Distribution Over the Last 10 Years.png](Project1_Group1_HousingMarket/Output/Plots/Average Sales Price Distribution Over the Last 10 Years.png)
 
 
     Findings: We noticed that price growth is 
