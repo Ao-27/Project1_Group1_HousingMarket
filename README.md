@@ -43,7 +43,9 @@
 ### Vizualization and findings 
     **Question #1: What is the price growth over time by city according to the price index of Statistics Canada?**
     Chart #1 - Line plot 
-    ![Average Sales Price Distribution Over the Last 10 Years.png](Project1_Group1_HousingMarket/Output/Plots/Average Sales Price Distribution Over the Last 10 Years.png)
+    ![House_Price_Index_Over_the_Last_10_Years](Project1_Group1_HousingMarket/Output/Plots
+    /House_Price_Index_Over_the_Last_10_Years.png)
+    
     Findings: We noticed that price growth across the 10 years range of time, continued to increase for the market being analyzed (Toronto, Vancouver and Montreal). 
     ------------------------------------------------
     Chart #2 -  Box and Whisker plot 
