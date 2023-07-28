@@ -42,8 +42,10 @@
         
 ### Vizualization and findings 
     Question #1: What is the price growth over time by city according to the price index of Statistics Canada? 
-    Chart #1 - 
+    Chart #1 - ![Image Alt Text](Output/Plots/.png)
 
+
+    Findings: We noticed that price growth is 
     Chart #2 -  
 
     Question #2: What is the price growth over time by city according to the average house prices from CREA? 
@@ -77,13 +79,13 @@
     Despite these limitations, we have strived to present the most comprehensive and informative analysis possible, leveraging the data at our disposal to draw meaningful conclusions. However, the availability of data may be limited in certain regions or timeframes, which could impact the granularity and completeness of our analysis. 
 
  ### Going further (what would have improve our project? 
-    HAVE MAYBE 3 RECOMMENDATIONS HERE! 
+    
 
  
     
 ### References: 
 ### Statistic Canada
-    ##### 
+    Statistics Canada. (n.d.). Table 18-10-0205-01 Gross domestic product (GDP) at basic prices, by industry, monthly (dollars). Retrieved from https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810020501
 
 
 ### Housing market per year trend
