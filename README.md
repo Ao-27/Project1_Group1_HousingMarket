@@ -48,24 +48,30 @@
     Findings: We noticed that price growth across the 10 years range of time, continued to increase for the market being analyzed (Toronto, Vancouver and Montreal). 
     ------------------------------------------------
     Chart #2 -  Box and Whisker plot 
-    !
+![Average_Sales_Price_Over_the_Last_10_Years.png](Output/Plots/Average_Sales_Price_Over_the_Last_10_Years.png)
+
     Findings: This vizualization of the Box and Whisker plot's median values were floating relatively close to the 100 basis point that StatsCan used to scale the Canadian dollar for all the years to be equivalent to 2016. Montreal had many outliers on the plot, suggesting that the market does have more activity higher end away from the average sales for a given year than in Toronto and Vancouver.
     
     **Question #2: What is the price growth over time by city according to the average house prices from CREA? **
     Chart #3 - 
-    !
+![House_Price_Index_Distribution_Over_the_Last_10.png](Output/Plots/House_Price_Index_Distribution_Over_the_Last_10.png)
+    
     Findings: 
+    
     Chart #4 -  
-    !
+![House_Price_Index_Distribution_Over_the_Last_10.png](Output/Plots/House_Price_Index_Distribution_Over_the_Last_10.png)
+    
     Findings: 
     ------------------------------------------------
     **Question #3: What effect Covid-19 had on the avg price of house in each city (pre covid vs post - covid)? **
     Chart #5 - Housing market during covid
-    !
+![Housing_market_during_Covid.png](Output/Plots/Housing_market_during_Covid.png)
+    
     Findings: 
     
     Chart #6 - 
-    !
+![Housing_Market_Pre-Covid.png](Output/Plots/Housing_Market_Pre-Covid.png)
+    
     Findings: 
     
 #### Pitch presentation
@@ -92,6 +98,9 @@
     Despite these limitations, we proceeded to work with the available data and attempted to draw conclusions related to the market. 
     
     However, the inadequacy of the data led us to inconclusive findings concerning the stories we intended to communicate about the market. Nonetheless, during our analysis, we did come across intriguing observations worth considering, particularly in light of the impact of Covid-19 on the real estate market.
+
+### Conclusion: 
+    Throughout our analysis, we have adhered to a meticulous and data-driven approach, navigating through the complexities of the housing market with precision and finesse. Our primary focus has been on providing you with insights that can empower your investment choices and enhance your understanding of the market dynamics.
     
 ### References: 
 ### Statistic Canada
