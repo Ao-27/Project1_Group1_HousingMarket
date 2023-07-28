@@ -42,7 +42,7 @@
         
 ### Vizualization and findings 
     Question #1: What is the price growth over time by city according to the price index of Statistics Canada? 
-    Chart #1 - ![Image Alt Text](Output/Plots/.png)
+    Chart #1 - ![Average House Price 2017-2019](output/plots/Average_House_Price_2017_2019_Cities.png)
 
 
     Findings: We noticed that price growth is 
