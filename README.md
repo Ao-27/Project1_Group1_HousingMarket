@@ -48,18 +48,18 @@
     Findings: We noticed that price growth across the 10 years range of time, continued to increase for the market being analyzed (Toronto, Vancouver and Montreal). 
     ------------------------------------------------
     Chart #2 -  Box and Whisker plot 
-![Average_Sales_Price_Over_the_Last_10_Years.png](Output/Plots/Average_Sales_Price_Over_the_Last_10_Years.png)
+![House_Price_Index_Over_the_Last_10_Years.png](Output/Plots/House_Price_Index_Distribution_Over_the_Last_10_Years.png)
 
     Findings: This vizualization of the Box and Whisker plot's median values were floating relatively close to the 100 basis point that StatsCan used to scale the Canadian dollar for all the years to be equivalent to 2016. Montreal had many outliers on the plot, suggesting that the market does have more activity higher end away from the average sales for a given year than in Toronto and Vancouver.
     
     **Question #2: What is the price growth over time by city according to the average house prices from CREA? **
     Chart #3 - 
-![House_Price_Index_Distribution_Over_the_Last_10.png](Output/Plots/House_Price_Index_Distribution_Over_the_Last_10.png)
+![Average_Sales_Price_Over_the_Last_10_Years.png](Output/Plots/Average_Sales_Price_Over_the_Last_10_Years.png)
     
     Findings: 
     
     Chart #4 -  
-![House_Price_Index_Distribution_Over_the_Last_10.png](Output/Plots/House_Price_Index_Distribution_Over_the_Last_10.png)
+![Average_Sales_ Price_Distribution_Over_the_Last_10_Years.png](Output/Plots/Average_Sales_ Price_Distribution_Over_the_Last_10_Years.png)
     
     Findings: 
     ------------------------------------------------
