@@ -9,6 +9,12 @@
 
     The analysis will be centered around examination of historical housing market trends. A group of 4 data analysts will harness pertinent datasets and     use  statistical techniques to deliver actionable recommendations that empower the investment realtor in making well-informed decisions.
 
+### How to naviguate this repository: 
+    The main code as per a Jupyther Notebook file is named: group1_housing_solution.ipynb 
+    The ressources folder will contain the csv collected for our data collection. 
+    The output folder as inside the validation of our dataframe created. 
+    FYI + Synthax_LessonsLearned folder contains history of discussion and key learning we got from this project. 
+
 ### Methodology/steps:
     Data Collection : 
     Our journey commenced with the acquisition of the raw data from trusted sources being Statistics Canada and the Canadian Real Estate Association (CREA). These sources can be found under the references tab. We could retreivered from these website the date, the location in the country (province and city), and the status. 
@@ -23,12 +29,11 @@
     With the data loaded into our analytical environment, we moved on to the critical phase of data cleaning. By selecting relevant columns, we focused our      efforts on the key variables crucial to understanding the housing market dynamics in these cities. This step not only streamlined the analysis but also enhanced the clarity of our insights. We also performed some renaming of field to make sure the filed name where relevant and under stable for everyone in the team. Then, we removed specific rows based on the "STATUS" values. This rigorous process allowed us to exclude any questionable or invalid data, or irrelevant one from our analysis. Additionally, to provide a comprehensive picture of the housing market, we took great care to remove rows with empty or "House only" "NewHousePrice_Index_Type". With a refined and polished dataset, we embarked on a city-specific analysis to uncover unique trends and patterns in Toronto, Vancouver, and Montréal. These cities serve as economic powerhouses and hold immense influence over the national real estate market. We finally made sure to export the dataset to serves as a valuable resource as a cross reference and overall validation
 
  ### Questions our project is trying to answer:  
-    1  What is the price growth over time by city according to the price index of Statistics Canada? 
+    Question #1:  What is the price growth over time by city according to the price index of Statistics Canada? 
     
-    2 - What is the price growth over time by city according to the average house prices from CREA? 
+    Question #2: What is the price growth over time by city according to the average house prices from CREA? 
     
-    3 - What effect Covid-19 had on the avg price of house in each city (pre covid vs post - covid)? 
-    Interpretation
+    Question #3: What effect Covid-19 had on the avg price of house in each city (pre covid vs post - covid)? 
         
 ### Vizualization and findings 
     Question #1: What is the price growth over time by city according to the price index of Statistics Canada? 
@@ -49,7 +54,7 @@
     Chart #6 - 
     
 #### Pitch presentation
-    Please see in the main repisotory our slides. 
+    Please see in the main repisotory our slides. You can also access it by using this link --> https://docs.google.com/presentation/d/1CJ3dPrM7Mc9OgJDJxfTJvhJdyCN2KMLb/edit?usp=sharing&ouid=104607105844137137793&rtpof=true&sd=true 
 
 ## Limitations 
     First, working in housing data can be very challenging from a statistics perspective and our team’s experience found this to be the case due to differing perspectives on insights, and limitations within the data found.
@@ -97,6 +102,3 @@
     Title: What is the difference between UTF-8 and ISO-8859-1?
     Website: Stack Overflow
     URL: https://stackoverflow.com/questions/7048745/what-is-the-difference-between-utf-8-and-iso-8859-1
-
-
-## Further conclusion (what we can do to improve the project) 
