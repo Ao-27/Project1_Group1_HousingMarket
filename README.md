@@ -26,7 +26,12 @@
         3. from scipy import stats
         4. import numpy as np
         5. import pandas as pd
-    With the data loaded into our analytical environment, we moved on to the critical phase of data cleaning. By selecting relevant columns, we focused our      efforts on the key variables crucial to understanding the housing market dynamics in these cities. This step not only streamlined the analysis but also enhanced the clarity of our insights. We also performed some renaming of field to make sure the filed name where relevant and under stable for everyone in the team. Then, we removed specific rows based on the "STATUS" values. This rigorous process allowed us to exclude any questionable or invalid data, or irrelevant one from our analysis. Additionally, to provide a comprehensive picture of the housing market, we took great care to remove rows with empty or "House only" "NewHousePrice_Index_Type". With a refined and polished dataset, we embarked on a city-specific analysis to uncover unique trends and patterns in Toronto, Vancouver, and Montréal. These cities serve as economic powerhouses and hold immense influence over the national real estate market. We finally made sure to export the dataset to serves as a valuable resource as a cross reference and overall validation
+    
+    With the data loaded into our analytical environment, we moved on to the critical phase of data cleaning. By selecting relevant columns, we focused our      efforts on the key variables crucial to understanding the housing market dynamics in these cities. This step not only streamlined the analysis but also enhanced the clarity of our insights. 
+    
+    We also performed some renaming of field to make sure the filed name where relevant and under stable for everyone in the team. Then, we removed specific rows based on the "STATUS" values. This rigorous process allowed us to exclude any questionable or invalid data, or irrelevant one from our analysis. 
+    
+    Additionally, to provide a comprehensive picture of the housing market, we took great care to remove rows with empty or "House only" "NewHousePrice_Index_Type". With a refined and polished dataset, we embarked on a city-specific analysis to uncover unique trends and patterns in Toronto, Vancouver, and Montréal. These cities serve as economic powerhouses and hold immense influence over the national real estate market. We finally made sure to export the dataset to serves as a valuable resource as a cross reference and overall validation
 
  ### Questions our project is trying to answer:  
     Question #1:  What is the price growth over time by city according to the price index of Statistics Canada? 
@@ -61,12 +66,18 @@
 ## Limitations 
     First, working in housing data can be very challenging from a statistics perspective and our team’s experience found this to be the case due to differing perspectives on insights, and limitations within the data found.
     
-    From a granularity perspective, we initially targeted average price comparisons to median incomes but quickly discovered that while widely available, housing and income data is often proprietary with housing typically reported based on monthly averages. Further to this, given the nature of the real estate business, the data sets monthly averages are not consistently calculated using the exact same houses of the prior month. We parsed through StatsCan data that was rated as excellent but ran into challenges when looking to join that data to other sources. Due to the proprietary issues, our data is exclusively focused on sales prices limiting our ability to analyze the market from a Sq.Ft, Dwelling Type, Number of Bedrooms, Lot Sizes, etc. perspective. The team opted for a solution to leverage CREA average housing price data found online to develop our own dataset that compiled average housing sales prices to analyse which dataset appeared to be more reliable to answer our inquiries.
+    From a granularity perspective, we initially targeted average price comparisons to median incomes but quickly discovered that while widely available, housing and income data is often proprietary with housing typically reported based on monthly averages. 
     
-    Additionally, due to the dynamic nature of the housing market, data for certain periods may not be as readily accessible, leading to potential gaps in our insights. Despite these limitations, we have strived to present the most comprehensive and informative analysis possible, leveraging the data at our disposal to draw meaningful conclusions. However, the availability of data may be limited in certain regions or timeframes, which could impact the granularity and completeness of our analysis. 
+    Further to this, given the nature of the real estate business, the data sets monthly averages are not consistently calculated using the exact same houses of the prior month. We parsed through StatsCan data that was rated as excellent but ran into challenges when looking to join that data to other sources. 
+    
+    Due to the proprietary issues, our data is exclusively focused on sales prices limiting our ability to analyze the market from a Sq.Ft, Dwelling Type, Number of Bedrooms, Lot Sizes, etc. perspective. The team opted for a solution to leverage CREA average housing price data found online to develop our own dataset that compiled average housing sales prices to analyse which dataset appeared to be more reliable to answer our inquiries.
+    
+    Additionally, due to the dynamic nature of the housing market, data for certain periods may not be as readily accessible, leading to potential gaps in our insights. 
+    
+    Despite these limitations, we have strived to present the most comprehensive and informative analysis possible, leveraging the data at our disposal to draw meaningful conclusions. However, the availability of data may be limited in certain regions or timeframes, which could impact the granularity and completeness of our analysis. 
 
  ### Going further (what would have improve our project? 
-
+    HAVE MAYBE 3 RECOMMENDATIONS HERE! 
 
  
     
