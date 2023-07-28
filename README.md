@@ -61,7 +61,7 @@
     Chart #6 - 
     
 #### Pitch presentation
-    Please see in the main repisotory our slides. You can also access it by using this link --> https://docs.google.com/presentation/d/1CJ3dPrM7Mc9OgJDJxfTJvhJdyCN2KMLb/edit?usp=sharing&ouid=104607105844137137793&rtpof=true&sd=true 
+    Please see in the main repisotory our slides. You can also access it by using this link 
 
 ## Limitations 
     First, working in housing data can be very challenging from a statistics perspective and our team’s experience found this to be the case due to differing perspectives on insights, and limitations within the data found.
