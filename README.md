@@ -9,7 +9,7 @@
 
     The analysis will be centered around examination of historical housing market trends. A group of 4 data analysts will harness pertinent datasets and     use  statistical techniques to deliver actionable recommendations that empower the investment realtor in making well-informed decisions.
 
-### How to naviguate this repository: 
+### How to navigate this repository: 
     The main code as per a Jupyther Notebook file is named: group1_housing_solution.ipynb 
     The ressources folder will contain the csv collected for our data collection. 
     The output folder as inside the validation of our dataframe created. 
