@@ -50,7 +50,8 @@
     Question #3: What effect Covid-19 had on the avg price of house in each city (pre covid vs post - covid)? 
     Interpretation
     Chart #5 - Housing market pre-covid
-    
+    ![image](https://github.com/Ao-27/Project1_Group1_HousingMarket/assets/133602896/3fa10284-bf75-4ba9-87bd-ef21f2a5866d)
+
 
 
     Chart #6 - 
