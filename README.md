@@ -56,23 +56,23 @@
     Chart #3 - 
 ![Average_Sales_Price_Over_the_Last_10_Years.png](Output/Plots/Average_Sales_Price_Over_the_Last_10_Years.png)
     
-    Findings: 
+    Findings: This plot as this vizual because of the "months" not scaling well to each year in our calculations. However, we notice that Vancouver on average as the highest average price. It could have been interesting to have the inflation rate and interest rate to understand the economic drivers of this price growth. 
     
     Chart #4 -  
 ![Average_Sales_ Price_Distribution_Over_the_Last_10_Years.png](Output/Plots/Average_Sales_ Price_Distribution_Over_the_Last_10_Years.png)
     
-    Findings: 
+    Findings: Vancouver has the highest median house price index, followed by Toronto, and then Montreal.Vancouver has a few outliers on the higher end, indicating some exceptionally high house price index values during the last 10 years.
     ------------------------------------------------
     **Question #3: What effect Covid-19 had on the avg price of house in each city (pre covid vs post - covid)? **
     Chart #5 - Housing market during covid
 ![Housing_market_during_Covid.png](Output/Plots/Housing_market_during_Covid.png)
     
-    Findings: 
+    Findings: We notice a peak in November 2021, but otherwise there is a steady growth in price 
     
     Chart #6 - 
 ![Housing_Market_Pre-Covid.png](Output/Plots/Housing_Market_Pre-Covid.png)
     
-    Findings: 
+    Findings: To assess this impact, we utilized histograms, which demonstrated the distribution of housing price indexes during the pandemic's outbreak and subsequent phases. The histograms allowed us to identify any shifts in price distribution and potential changes in the market dynamics influenced by the pandemic. 
     
 #### Pitch presentation
     Please see in the main repisotory our slides. 
