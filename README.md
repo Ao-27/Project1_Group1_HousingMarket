@@ -12,7 +12,7 @@
 ### How to navigate this repository: 
     The main code as per a Jupyther Notebook file is named: group1_housing_solution.ipynb 
     The ressources folder will contain the csv collected for our data collection. 
-    The output folder as inside the validation of our dataframe created. 
+    The output folder as inside the validation of our dataframe created and the plots we made. 
     FYI + Synthax_LessonsLearned folder contains history of discussion and key learning we got from this project. 
 
 ### Methodology/steps:
@@ -41,27 +41,34 @@
     Question #3: What effect Covid-19 had on the avg price of house in each city (pre covid vs post - covid)? 
         
 ### Vizualization and findings 
-    Question #1: What is the price growth over time by city according to the price index of Statistics Canada? 
-    Chart #1 - 
-
-    Chart #2 -  
-
-    Question #2: What is the price growth over time by city according to the average house prices from CREA? 
+    **Question #1: What is the price growth over time by city according to the price index of Statistics Canada?**
+    Chart #1 - Line plot 
+    ![Average Sales Price Distribution Over the Last 10 Years.png](Project1_Group1_HousingMarket/Output/Plots/Average Sales Price Distribution Over the Last 10 Years.png)
+    Findings: We noticed that price growth across the 10 years range of time, continued to increase for the market being analyzed (Toronto, Vancouver and Montreal). 
+    ------------------------------------------------
+    Chart #2 -  Box and Whisker plot 
+    !
+    Findings: This vizualization of the Box and Whisker plot's median values were floating relatively close to the 100 basis point that StatsCan used to scale the Canadian dollar for all the years to be equivalent to 2016. Montreal had many outliers on the plot, suggesting that the market does have more activity higher end away from the average sales for a given year than in Toronto and Vancouver.
+    
+    **Question #2: What is the price growth over time by city according to the average house prices from CREA? **
     Chart #3 - 
-
+    !
+    Findings: 
     Chart #4 -  
-
-
-    Question #3: What effect Covid-19 had on the avg price of house in each city (pre covid vs post - covid)? 
-    Interpretation
+    !
+    Findings: 
+    ------------------------------------------------
+    **Question #3: What effect Covid-19 had on the avg price of house in each city (pre covid vs post - covid)? **
     Chart #5 - Housing market during covid
-
-
-
+    !
+    Findings: 
+    
     Chart #6 - 
+    !
+    Findings: 
     
 #### Pitch presentation
-    Please see in the main repisotory our slides. You can also access it by using this link 
+    Please see in the main repisotory our slides. 
 
 ## Limitations 
     First, working in housing data can be very challenging from a statistics perspective and our team’s experience found this to be the case due to differing perspectives on insights, and limitations within the data found.
@@ -77,13 +84,17 @@
     Despite these limitations, we have strived to present the most comprehensive and informative analysis possible, leveraging the data at our disposal to draw meaningful conclusions. However, the availability of data may be limited in certain regions or timeframes, which could impact the granularity and completeness of our analysis. 
 
  ### Going further (what would have improve our project? 
-    HAVE MAYBE 3 RECOMMENDATIONS HERE! 
+    The available data is solely focused on sales prices, which restricts our ability to conduct a comprehensive analysis of the market from various perspectives such as Square Footage, Dwelling Type, Number of Bedrooms, Lot Sizes, and others. 
+    
+    Additionally, crucial data points, such as information related to income, location of the sales, the number of sales each month, and the total number of listings available during the sales period, were not included in the dataset.
 
- 
+    Despite these limitations, we proceeded to work with the available data and attempted to draw conclusions related to the market. 
+    
+    However, the inadequacy of the data led us to inconclusive findings concerning the stories we intended to communicate about the market. Nonetheless, during our analysis, we did come across intriguing observations worth considering, particularly in light of the impact of Covid-19 on the real estate market.
     
 ### References: 
 ### Statistic Canada
-    ##### 
+    Statistics Canada. (n.d.). Table 18-10-0205-01 Gross domestic product (GDP) at basic prices, by industry, monthly (dollars). Retrieved from https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810020501
 
 
 ### Housing market per year trend
